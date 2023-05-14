@@ -1,0 +1,1 @@
+To run the script use ```node sudoku.js``` in the console
